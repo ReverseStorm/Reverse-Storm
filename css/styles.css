@@ -10953,12 +10953,13 @@ header.masthead {
   background-position: center center;
   background-size: cover;
 }
+/* *****************************************************************subheading title */
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
-  font-style: italic;
+  font-style: normal;
   line-height: 1.5rem;
   margin-bottom: 25px;
-  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 header.masthead .masthead-heading {
   font-size: 3.25rem;
